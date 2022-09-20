@@ -22,7 +22,7 @@ end
 
 puts tell_the_truth
 
-# FUnctions in Ruby may have parameters.
+# Functions in Ruby may have parameters. in the function say_hello, 'name' is a parameter.
 def say_hello name
     return 'Hello ' + name + '!'
 end
